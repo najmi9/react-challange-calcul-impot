@@ -7,10 +7,11 @@
 
 # testing
 /coverage
-
+/tests
+/components
 # production
 /build
-
+docs.json
 # misc
 .DS_Store
 .env.local
